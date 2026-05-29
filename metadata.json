@@ -1,0 +1,6 @@
+{
+  "name": "4th Anniversary Love Story",
+  "description": "An interactive, beautiful fully responsive romantic 4th anniversary website in Bengali with smooth romantic transitions, custom voice message synthesizer, candle blowing interaction, and cinematic proposal effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
