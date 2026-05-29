@@ -7,49 +7,49 @@ const timelineEvents: TimelineEvent[] = [
   {
     id: 'meet',
     title: 'প্রথম দেখা 🌸',
-    date: 'মে ২৯, ২০২২',
+    date: 'মে ৩০, ২০২২',
     description: 'মনে পড়ে সেই প্রথম দিনের কথা? এক বুক জড়তা আর হাজারো মিষ্টি অনুভূতির সেই সূচনা। প্রথম যখন তোমার চোখে চোখ পড়েছিল, চারপাশের সবকিছু যেন এক মুহূর্তের জন্য থমকে গিয়েছিল।',
-    image: 'https://images.unsplash.com/photo-1518199266791-5375a83190b7?auto=format&fit=crop&w=600&q=80',
+    image: 'https://i.ibb.co.com/3yH1FpSM/Whats-App-Image-2026-05-29-at-10-44-04-AM.jpg',
     icon: 'heart'
   },
   {
     id: 'date',
-    title: 'প্রথম ডেট ☕',
+    title: 'দ্বিতীয় দেখা ☕',
     date: 'জুলাই ১৫, ২০২২',
     description: 'হাতে হাত রেখে পাশাপাশি বসে থাকার আনন্দ। কফির কাপে চুমুক দিতে দিতে আমাদের অনন্ত গল্প আর অপলক তাকিয়ে থাকা। সেই দিনই বুঝতে পেরেছিলাম, এই মানুষটি ছাড়া আমার আর কাউকে চাই না।',
-    image: 'https://images.unsplash.com/photo-1522673607200-164d1b6ce486?auto=format&fit=crop&w=600&q=80',
+    image: 'https://i.ibb.co.com/kgYbWTxp/Whats-App-Image-2026-05-29-at-10-51-10-AM.jpg',
     icon: 'calendar'
   },
   {
-    id: 'tour',
-    title: 'প্রথম ঘুরতে যাওয়া 🏔️',
-    date: 'ডিসেম্বর ২৪, ২০২২',
-    description: 'কোলাহল থেকে দূরে, প্রকৃতির শান্ত কোলে আমাদের প্রথম একসাথে হারিয়ে যাওয়া। পাহাড়ি শীতল হাওয়ায় তোমার কাঁধে মাথা রেখে সূর্যাস্ত দেখার সেই স্মৃতি সারা জীবন মনে অম্লান হয়ে থাকবে।',
-    image: 'https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=600&q=80',
-    icon: 'compass'
-  },
-  {
     id: 'tough',
-    title: 'কঠিন সময়ে পাশে থাকা 🌧️',
-    date: '২০২৩ সালে',
-    description: 'সময় সবসময় একরকম যায় না। আমাদের মাঝেও এসেছে ঝড়, কিন্তু প্রতিটি কঠিন মূহূর্তে তুমি যেভাবে আমার বিশ্বাসের খুঁটি হয়ে পাশে দাঁড়িয়েছিলে, তা আমাদের সম্পর্ককে করেছে আরও মজবুত।',
-    image: 'https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=600&q=80',
-    icon: 'shield'
+    title: 'সবচেয়ে সুন্দর মুহূর্ত ✨',
+    date: '১২ অক্টোবর, ২০২৩',
+    description: 'জীবনের সেরা মূহূর্তগুলোর একটি, যা চিরকাল আমাদের মনে গেঁথে থাকবে। তোমার প্রতিটি হাসিতে, প্রতিটি চাহনিতে আমাদের ভালোবাসার পূর্ণতা প্রকাশ পায়।',
+    image: 'https://i.ibb.co.com/Z1h7vqvz/Whats-App-Image-2026-05-29-at-10-21-11-AM.jpg',
+    icon: 'heart'
   },
   {
     id: 'stronger',
-    title: 'আরও গভীর অনুভূতি ✨',
-    date: '২০২৪ - ২০২৫',
-    description: 'ঝড়-ঝাপটা পেরিয়ে ভালোবাসাটা যেন এক শান্ত নদীতে রূপ নিলো। কথা না বলেও একে অপরের মন বুঝে নেওয়া এবং যেকোনো পরিস্থিতিতেই হাত না ছাড়ার অটুট প্রতিজ্ঞা।',
-    image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=600&q=80',
+    title: 'একসাথে হাজারো হাসি 😄',
+    date: '০৪ মার্চ, ২০২৪',
+    description: 'আমাদের প্রতিটি আনন্দের মুহূর্ত, প্রতিটা আড্ডা ও একরাশ অনাবিল হাসি। তোমার এই সুন্দর হাসিটাই আমার ভালো থাকার সবচেয়ে বড় নিয়ামক।',
+    image: 'https://i.ibb.co.com/3b6160d/Whats-App-Image-2026-05-29-at-9-28-59-AM.jpg',
     icon: 'sparkles'
+  },
+  {
+    id: 'tour',
+    title: 'ছোট ছোট খুনসুটি 🙈',
+    date: '১৯ আগস্ট, ২০২৫',
+    description: 'আমাদের সেই মিষ্টি ঝগড়া, মান-অভিমান আর খুনসুটিগুলো যা ছাড়া আমাদের ভালোবাসা অপূর্ণ। একে অপরকে রাগানো আর তারপরেই জড়িয়ে ধরার অনুভূতিটাই অন্যরকম।',
+    image: 'https://i.ibb.co.com/twpqzP3c/Whats-App-Image-2026-05-29-at-9-29-00-AM.jpg',
+    icon: 'compass'
   },
   {
     id: 'anniversary',
     title: '৪ বছরের মধুর পথচলা 🎉',
     date: 'আজকের এই শুভ দিন',
     description: '৪ বছরের হাজারো হাসি, কান্না, মান-অভিমান আর একরাশ ভালোবাসায় ঘেরা স্বপ্নিল যাত্রা। হাজার বছরের ভালোবাসার চেয়েও আমাদের এই চার বছর অনেক বেশি অর্থপূর্ণ আর স্পেশাল।',
-    image: 'https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=600&q=80',
+    image: 'https://i.ibb.co.com/Hpz9Pm1z/Whats-App-Image-2026-05-29-at-9-28-59-AM-1.jpg',
     icon: 'star'
   }
 ];
@@ -146,6 +146,14 @@ export default function TimelineSection() {
                         alt={event.title}
                         className="w-full h-48 md:h-56 object-cover rounded-xl shadow-inner filter brightness-95 hover:brightness-100 transition-all duration-300"
                         referrerPolicy="no-referrer"
+                        onError={(e) => {
+                          const target = e.target as HTMLImageElement;
+                          if (event.id === 'meet') {
+                            target.src = 'https://images.unsplash.com/photo-1518199266791-5375a83190b7?auto=format&fit=crop&w=600&q=80';
+                          } else {
+                            target.src = 'https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=600&q=80';
+                          }
+                        }}
                       />
                     </motion.div>
                   </div>

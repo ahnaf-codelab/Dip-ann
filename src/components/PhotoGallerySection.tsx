@@ -6,37 +6,37 @@ import { PhotoItem } from '../types';
 const galleryPhotos: PhotoItem[] = [
   {
     id: '1',
-    url: 'https://images.unsplash.com/photo-1518199266791-5375a83190b7?auto=format&fit=crop&w=600&q=80',
+    url: 'https://i.ibb.co.com/3yH1FpSM/Whats-App-Image-2026-05-29-at-10-44-04-AM.jpg',
     caption: 'প্রথম দেখা 🌸',
-    date: '২৯ মে, ২০২২'
+    date: '৩০ মে, ২০২২'
   },
   {
     id: '2',
-    url: 'https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=600&q=80',
-    caption: 'প্রথম ঘুরতে যাওয়া 💖',
-    date: '২৪ ডিসেম্বর, ২০২২'
+    url: 'https://i.ibb.co.com/kgYbWTxp/Whats-App-Image-2026-05-29-at-10-51-10-AM.jpg',
+    caption: 'দ্বিতীয় দেখা ☕',
+    date: '১৫ জুলাই, ২০২২'
   },
   {
     id: '3',
-    url: 'https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=600&q=80',
+    url: 'https://i.ibb.co.com/Z1h7vqvz/Whats-App-Image-2026-05-29-at-10-21-11-AM.jpg',
     caption: 'সবচেয়ে সুন্দর মুহূর্ত ✨',
     date: '১২ অক্টোবর, ২০২৩'
   },
   {
     id: '4',
-    url: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=600&q=80',
+    url: 'https://i.ibb.co.com/3b6160d/Whats-App-Image-2026-05-29-at-9-28-59-AM.jpg',
     caption: 'একসাথে হাজারো হাসি 😄',
     date: '০৪ মার্চ, ২০২৪'
   },
   {
     id: '5',
-    url: 'https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=600&q=80',
+    url: 'https://i.ibb.co.com/Hpz9Pm1z/Whats-App-Image-2026-05-29-at-9-28-59-AM-1.jpg',
     caption: 'আজকের ৪ বছর পূর্তি 🎉',
     date: '২৯ মে, ২০২৬'
   },
   {
     id: '6',
-    url: 'https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?auto=format&fit=crop&w=600&q=80',
+    url: 'https://i.ibb.co.com/twpqzP3c/Whats-App-Image-2026-05-29-at-9-29-00-AM.jpg',
     caption: 'ছোট ছোট খুনসুটি 🙈',
     date: '১৯ আগস্ট, ২০২৫'
   }
