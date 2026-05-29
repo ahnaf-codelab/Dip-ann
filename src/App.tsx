@@ -29,6 +29,7 @@ import WhyILoveYouSection from './components/WhyILoveYouSection';
 import VoiceMessageSection from './components/VoiceMessageSection';
 import CakeSection from './components/CakeSection';
 import ProposalSection from './components/ProposalSection';
+import WishesSection from './components/WishesSection';
 
 export default function App() {
   const [isLoading, setIsLoading] = useState(true);
@@ -610,6 +611,10 @@ export default function App() {
 
           {/* SECTION 11 — PROPOSAL SECTION 💍 */}
           <ProposalSection />
+
+
+          {/* SECTION 11.5 — CONGRATULATIONS & WELL WISHES SECTION ❤️ */}
+          <WishesSection />
 
 
           {/* SECTION 12 — FINAL LETTER (CINEMATIC ENDING) 🌸 */}
